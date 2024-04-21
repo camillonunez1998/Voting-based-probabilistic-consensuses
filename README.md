@@ -77,9 +77,9 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-<!-- ## Usage -->
+<!-- ## Usage
 
-To use the project, open the main file and put the address of the Latex file that you want to translate to coq. After running the program a .v file will be downloaded in the same repository the project is located.
+To use the project, open the main file and put the address of the Latex file that you want to translate to coq. After running the program a .v file will be downloaded in the same repository the project is located. -->
 
 
 
