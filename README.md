@@ -40,9 +40,8 @@
 
 <!---[![Product Name Screen Shot][product-screenshot]](https://example.com)--->
 
-This article is composed of two main parts, sections 3 and 4. In the section 3 we introduce an instance of the family of the voters models consensus protocols, in which we suppose all the participants are honest. We decided to call it Toy Model since it is not usually the case. In this section, we prove 4 statements considering all the mathematical details.
-1
-In the section 4, we start considering Byzantine nodes, i.e., nodes that do not follow the protocol honestly. The goal of this section is to study how we can achieve a consensus in the presence of Byzantine nodes. Here we will only introduce the intuition of how these systems behave since the formal proofs of the statements that will be presented require the use of probabilistic tools whose mathematical proofs are out of the scope of this paper.
+The goal of this TER was to study a particular case of a family of consensus protocols known as voter models or majority dynamics. We will first show results about its good behavior while working only with honest nodes. Then, we discuss its behavior under the presence of Byzantine nodes, which in general is very susceptible to initial conditions.
+
 
 
 <!-- ### Built With
