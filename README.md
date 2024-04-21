@@ -40,7 +40,7 @@
 
 <!---[![Product Name Screen Shot][product-screenshot]](https://example.com)--->
 
-The goal of this TER was to study a particular case of a family of consensus protocols known as voter models or majority dynamics. We will first show results about its good behavior while working only with honest nodes. Then, we discuss its behavior under the presence of Byzantine nodes, which in general is very susceptible to initial conditions.
+The goal of this report was to study a particular case of a family of consensus protocols known as voter models or majority dynamics. We will first show results about its good behavior while working only with honest nodes. Then, we discuss its behavior under the presence of Byzantine nodes, which in general is very susceptible to initial conditions.
 
 
 
